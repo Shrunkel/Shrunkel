@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shrunkel
+- 👋 Hi, I’m @Shrunkel / Full name Kayrey
 - 👀 I’m interested in Video games
 - 🌱 I’m currently learning C++ and python
 - 📫 How to reach me email
