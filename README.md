@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Full name Kayrey
+
 - Student Number: ST10469845
 - 👀 I’m interested in Video games
 - 🌱 I’m currently learning C++ and python
-- 📫 How to reach me email
 - Currently in a debate to do either Game development, Cybersecurity or AI development
 
 <!---
